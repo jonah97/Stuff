@@ -1,6 +1,8 @@
 let a = 10
 let b = 10
 
-let c = a+b
+let c = a + b
 
 console.log(c)
+
+console.log(a - b)
