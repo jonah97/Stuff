@@ -1,5 +1,5 @@
-let a = 10
-let b = 10
+let a = 1000
+let b = 0
 
 let c = a + b
 
